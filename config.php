@@ -8,5 +8,5 @@
 
 ini_set('date.timezone','ASIA/Tashkent');
 
-$bot_token = 'bot_token';
-$provider_token  = '398062629:TEST:999999999_F91D8F69C042267444B74CC0B3C747757EB0E065';
+$bot_token = '2112545082:AAHLQdzECTIj5xHmjp_7mFDogVKHrss5uzU';
+$provider_token  = '2112545082:AAHLQdzECTIj5xHmjp_7mFDogVKHrss5uzU';
