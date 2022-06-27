@@ -88,7 +88,7 @@ class Telegram
      */
     public function endpoint($api, array $content, $post = true)
     {
-        $url = 'https://api.telegram.org/bot'.$this->bot_token.'/'.$api;
+        $url = 'https://api.telegram.org/bot'.$this->2112545082:AAHLQdzECTIj5xHmjp_7mFDogVKHrss5uzU.'/'.$api;
         if ($post) {
             $reply = $this->sendAPIRequest($url, $content);
         } else {
